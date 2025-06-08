@@ -75,3 +75,10 @@ This will run the project on http://localhost:3000/ by default.
 
 Ensure your .env file is configured properly before running.
 
+### Testing
+Run available tests (if configured):
+```bash
+npm test
+```
+Or use testing frameworks like Jest or Cypress as integrated.
+
