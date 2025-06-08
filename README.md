@@ -65,7 +65,7 @@ cd PrescriptionOCR
 npm install
 ```
 
-**Usage**
+### Usage
 
 Start the development server:
 ```bash
